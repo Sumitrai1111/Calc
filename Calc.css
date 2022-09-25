@@ -48,7 +48,7 @@ input:active {
 @media screen and (max-width:400px){
    .calculator{
     height: 300px;
-    width: 320px;
+    width: 330px;
     margin-left: 7%;
    }
    h2{
